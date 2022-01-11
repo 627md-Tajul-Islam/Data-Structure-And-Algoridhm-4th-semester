@@ -5,3 +5,6 @@ https://byjus.com/biology/difference-between-data-and-information/
 
 Data Types
 https://en.wikipedia.org/wiki/Data_type
+
+Numeric Data Types
+https://www.voxco.com/blog/numerical-data-types-and-characteristics/#:~:text=Numerical%20data%20refers%20to%20the,be%20statistically%20and%20arithmetically%20calculated.
