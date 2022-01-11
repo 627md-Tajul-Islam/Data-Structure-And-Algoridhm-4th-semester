@@ -2,3 +2,6 @@ Chapter 1 Essential Things are stored here
 
 Data VS Information
 https://byjus.com/biology/difference-between-data-and-information/
+
+Data Types
+https://en.wikipedia.org/wiki/Data_type
