@@ -1,4 +1,4 @@
-1/ Repeat step 2 to 4 for 1 = 1 to M 
+1/ Repeat step 2 to 4 for I = 1 to M 
 
 2/ Repeat step 3 to 4 for J = 1 to N
 
